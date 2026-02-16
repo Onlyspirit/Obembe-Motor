@@ -4,8 +4,8 @@ import Navbar from "../components/Navbar.vue";
 import Footer from "../components/Footer.vue";
 import Watsapfloat from "../components/whatsapp.vue";
 import Whatsapp from "../components/whatsapp.vue";
-import InventoryView from "../components/inventoryView.vue";
-import AboutView from "../components/AboutView.vue";
+import InventoryView from "../view/inventoryView.vue";
+import AboutView from "../view/AboutView.vue";
 // import { C } from "vue-router/dist/router-CWoNjPRp.mjs";
 import ReachUs from "../components/ReachUs.vue";
 
