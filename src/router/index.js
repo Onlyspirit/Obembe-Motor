@@ -16,13 +16,13 @@ const router = createRouter({
     {
       path: '/', name: 'Home', component: Home
     },
-    { path: '/navbar', name: 'navbar', component: Navbar },
+    { path: '/Navbar', name: 'Navbar', component: Navbar },
     // { path: '*', redirect: '/' },
-    { path: '/footer', name: 'footer', component: Footer },
-    { path: '/whatsapp', name: 'whatsapp', component: Whatsapp },
+    { path: '/Footer', name: 'Footer', component: Footer },
+    { path: '/Whatsapp', name: 'Whatsapp', component: Whatsapp },
     { path: '/inventory', name: 'inventory', component: InventoryView },
     { path: '/about', name: 'about', component: AboutView } ,
-    { path:'/reachus', name:'reachus', component: ReachUs }
+    { path:'/Reachus', name:'Reachus', component: ReachUs }
   ],
 });
 export default router;
