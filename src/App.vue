@@ -2,7 +2,8 @@
 import Navbar from './components/Navbar.vue'
 import Footer from './components/Footer.vue'
 // import WhatsAppFloat from './components/Whatsapp.vue'
-import Whatsapp from "../components/Whatsapp.vue";
+// import Whatsapp from "../components/Whatsapp.vue";
+import Whatsapp from './components/Whatsapp.vue';
 </script>
 
 <template>
